@@ -1,6 +1,7 @@
 " Vim color file
 " Maintainer:   Barlog M. <barlog@tanelorn.li>
-" Last Change:  2018.12.08
+" Last Change:  2019.12.07
+" :runtime syntax/hitest.vim
 
 highlight clear
 if exists("syntax_on")
@@ -175,6 +176,10 @@ let g:terminal_color_foreground=s:white
 
 " neovim
 call Hi('NvimInternalError',      s:red, s:none, s:none)
+
+call Hi('RedrawDebugClear',     s:black, s:yellow, s:none)
+call Hi('RedrawDebugComposed',  s:black, s:green, s:none)
+call Hi('RedrawDebugRecompose', s:black, s:red, s:none)
 
 " vim-gitgutter
 call Hi('GitGutterAdd',         s:green, s:none, s:none)
