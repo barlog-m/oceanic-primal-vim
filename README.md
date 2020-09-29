@@ -9,4 +9,6 @@ Supported plugins
 * [vim-gitgutter](https://github.com/airblade/vim-gitgutter)
 * [coc](https://github.com/neoclide/coc.nvim)
 
+Font on screenshot is [PragmataPro](https://fsd.it/shop/fonts/pragmatapro/)
+
 ![Screenshot](screenshot.png)
