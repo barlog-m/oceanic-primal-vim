@@ -16,4 +16,5 @@ Supported plugins
 Font on screenshot is [PragmataPro](https://fsd.it/shop/fonts/pragmatapro/)
 
 [Oceanic Primal for IntelliJ IDEA](https://github.com/barlog-m/oceanic-primal-idea)
+
 [Oceanic Primal for other programs](https://github.com/barlog-m/oceanic-primal)
