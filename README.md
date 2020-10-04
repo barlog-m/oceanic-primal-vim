@@ -9,7 +9,9 @@ Supported plugins
 -   [vim-gitgutter](https://github.com/airblade/vim-gitgutter)
 -   [coc](https://github.com/neoclide/coc.nvim)
 
-![Screenshot](screenshot.png)
+![Screenshot](oceanic-primal-vim-0.png)
+![Screenshot](oceanic-primal-vim-1.png)
+![Screenshot](oceanic-primal-vim-2.png)
 
 Font on screenshot is [PragmataPro](https://fsd.it/shop/fonts/pragmatapro/)
 
