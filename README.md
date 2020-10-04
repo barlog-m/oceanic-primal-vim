@@ -6,9 +6,12 @@ A minimalistic theme based on [Oceanic Primal palette](https://github.com/oceani
 
 Supported plugins
 
-* [vim-gitgutter](https://github.com/airblade/vim-gitgutter)
-* [coc](https://github.com/neoclide/coc.nvim)
+-   [vim-gitgutter](https://github.com/airblade/vim-gitgutter)
+-   [coc](https://github.com/neoclide/coc.nvim)
+
+![Screenshot](screenshot.png)
 
 Font on screenshot is [PragmataPro](https://fsd.it/shop/fonts/pragmatapro/)
 
-![Screenshot](screenshot.png)
+[Oceanic Primal for IntelliJ IDEA](https://github.com/barlog-m/oceanic-primal-idea)
+[Oceanic Primal for other programs](https://github.com/barlog-m/oceanic-primal)
