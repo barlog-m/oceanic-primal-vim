@@ -19,6 +19,7 @@ Supported plugins
 Font on screenshot is [PragmataPro](https://fsd.it/shop/fonts/pragmatapro/)
 
 -   [Oceanic Primal for IntelliJ IDEA](https://github.com/barlog-m/oceanic-primal-idea)
+-   [Oceanic Primal for Sublime Text](https://github.com/barlog-m/oceanic-primal-sublime)
 -   [Oceanic Primal for other programs](https://github.com/barlog-m/oceanic-primal)
 
 [![MIT License](https://img.shields.io/badge/license-MIT-a31f34.svg?style=flat-square)](https://opensource.org/licenses/MIT)
