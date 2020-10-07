@@ -20,11 +20,17 @@ All major plugin managers for vim/nvim are supported
 <PACKAGE_MANAGER> 'barlog-m/oceanic-primal-vim'
 ```
 
+Enable scheme in config
+
+```vim
+colorscheme oceanic-primal
+```
+
 ![Screenshot](oceanic-primal-vim-0.png)
 ![Screenshot](oceanic-primal-vim-1.png)
 ![Screenshot](oceanic-primal-vim-2.png)
 
-Font on screenshot is [PragmataPro](https://fsd.it/shop/fonts/pragmatapro/)
+Font on screenshots is [PragmataPro](https://fsd.it/shop/fonts/pragmatapro/)
 
 -   [Oceanic Primal for IntelliJ IDEA](https://github.com/barlog-m/oceanic-primal-idea)
 -   [Oceanic Primal for Sublime Text](https://github.com/barlog-m/oceanic-primal-sublime)
