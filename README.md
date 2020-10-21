@@ -1,11 +1,13 @@
-# Oceanic Primal theme for Vim and Neovim
+# Oceanic Primal colorscheme for Vim and Neovim
+
+Oceanic Primal is a dark colorscheme for Vim and Neovim
 
 [![GitHub Tags](https://img.shields.io/github/v/tag/barlog-m/oceanic-primal-vim?color=0298c3&label=version&style=flat-square)](https://github.com/barlog-m/oceanic-primal-vim/tags)
 [![MIT License](https://img.shields.io/badge/license-MIT-0298c3.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
 **Not** [base16](http://chriskempson.com/projects/base16/) theme: fewer color, more ocean
 
-A minimalistic theme based on [Oceanic Primal palette](https://github.com/oceanic-primal/palette), inspired by [Oceanic-Next.vim](https://github.com/mhartington/oceanic-next).
+A minimalistic colorscheme based on [Oceanic Primal palette](https://github.com/oceanic-primal/palette), inspired by [Oceanic-Next.vim](https://github.com/mhartington/oceanic-next).
 
 ### Supported plugins
 
