@@ -1,6 +1,6 @@
 " Vim color file
 " Maintainer:   Barlog M. <barlog@tanelorn.li>
-" Last Change:  2019.12.07
+" Last Change:  2021.08.17
 " :runtime syntax/hitest.vim
 
 highlight clear
@@ -156,7 +156,7 @@ let g:terminal_color_9=s:red
 let g:terminal_color_2=s:green
 let g:terminal_color_10=s:green
 
-let g:terminal_color_3=s:yellow 
+let g:terminal_color_3=s:yellow
 let g:terminal_color_11=s:yellow
 
 let g:terminal_color_4=s:blue
@@ -174,8 +174,16 @@ let g:terminal_color_15=s:white
 let g:terminal_color_background=s:black
 let g:terminal_color_foreground=s:white
 
+" LSP
+call Hi('LspDiagnosticsDefaultError',       s:red, s:none, s:none)
+call Hi('LspDiagnosticsDefaultWarning',     s:orange, s:none, s:none)
+call Hi('LspDiagnosticsDefaultInformation', s:yellow, s:none, s:none)
+call Hi('LspDiagnosticsDefaultHint',        s:yellow, s:none, s:none)
+
+call Hi('LspReferenceText',  s:none, s:black_light, s:none)
+
 " neovim
-call Hi('NvimInternalError',      s:red, s:none, s:none)
+call Hi('NvimInternalError',    s:red, s:none, s:none)
 
 call Hi('RedrawDebugClear',     s:black, s:yellow, s:none)
 call Hi('RedrawDebugComposed',  s:black, s:green, s:none)
