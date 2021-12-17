@@ -175,10 +175,10 @@ let g:terminal_color_background=s:black
 let g:terminal_color_foreground=s:white
 
 " LSP
-call Hi('DiagnosticsError',       s:red, s:none, s:none)
-call Hi('DiagnosticsWarning',     s:orange, s:none, s:none)
-call Hi('DiagnosticsInformation', s:yellow, s:none, s:none)
-call Hi('DiagnosticsHint',        s:yellow, s:none, s:none)
+call Hi('DiagnosticError',       s:red, s:none, s:none)
+call Hi('DiagnosticWarning',     s:orange, s:none, s:none)
+call Hi('DiagnosticInformation', s:yellow, s:none, s:none)
+call Hi('DiagnosticHint',        s:yellow, s:none, s:none)
 
 call Hi('LspReferenceText',  s:none, s:black_light, s:none)
 
