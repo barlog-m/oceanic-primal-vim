@@ -176,8 +176,8 @@ let g:terminal_color_foreground=s:white
 
 " LSP
 call Hi('DiagnosticError',       s:red, s:none, s:none)
-call Hi('DiagnosticWarning',     s:orange, s:none, s:none)
-call Hi('DiagnosticInformation', s:yellow, s:none, s:none)
+call Hi('DiagnosticWarn',     s:orange, s:none, s:none)
+call Hi('DiagnosticInfo', s:yellow, s:none, s:none)
 call Hi('DiagnosticHint',        s:yellow, s:none, s:none)
 
 call Hi('LspReferenceText',  s:none, s:black_light, s:none)
